@@ -1,0 +1,246 @@
+﻿X,Y,OBJECTID,Name,Council_area,LifesavAreaID,Support_Centre,Latitude,Longitude,Date_Present,LIFEGUARDED_BEACHES_URLs
+-4.55411199999998,50.8346030000001,1,CROOKLETS,CORNWALL,23,Bude,50.834603,-4.554112,2006/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/crooklets-beach
+-4.55619099999996,50.8611080000001,2,SANDYMOUTH,CORNWALL,23,Bude,50.861108,-4.556191,2006/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/sandymouth-beach
+0.846825,52.973554,3,WELLS-NEXT-THE-SEA,NORTH NORFOLK,44,Catfield,52.9735527038574,0.846825003623962,2009/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/wells-next-the-sea-beach
+-3.07533999999993,53.434195,4,HARRISON DRIVE,WIRRAL,30,Wirral,53.434195,-3.07534,2015/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/harrison-drive-beach
+-3.03917399999995,53.4406950000001,5,NEW BRIGHTON (PERCH ROCK),WIRRAL,30,Wirral,53.440695,-3.039174,2015/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/new-brighton-perch-rock-beach
+-3.04205699999994,53.4418900000001,6,THE PLATEAUX,WIRRAL,30,Wirral,53.44189,-3.042057,2015/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/the-plateaux-beach
+-3.18884299999996,53.3718920000001,7,WEST KIRBY,WIRRAL,30,Wirral,53.371892,-3.188843,2015/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/west-kirby-beach
+-6.61186799999996,55.2058440000001,9,WHITEROCKS,CAUSEWAY COAST AND GLENS,35,Ballymoney,55.205844,-6.611868,2011/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/whiterocks-beach
+-2.20106499999997,49.2468910000001,10,GREVE DE LECQ,JERSEY,17,Jersey,49.246891,-2.201065,2011/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/greve-de-lecq-beach
+-2.19465699999995,49.1848180000001,11,ST BRELADE'S BAY,JERSEY,17,Jersey,49.184818,-2.194657,2011/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/st-brelades-bay-beach
+-2.22553399999993,49.198043,12,LE BRAYE,JERSEY,17,Jersey,49.198043,-2.225534,2014/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/le-braye-beach
+-6.73000299999995,55.1707630000001,13,PORTSTEWART STRAND,NATIONAL TRUST,35,Ballymoney,55.170763,-6.730003,2011/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/portstewart-strand-beach
+-5.74624499999993,54.252504,14,TYRELLA,"NEWRY CITY, MOURNE AND DOWN",36,Ballymoney,54.2525024414063,-5.74624490737915,2012/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/tyrella-beach
+-2.13510999999994,55.891985,16,COLDINGHAM BAY,SCOTTISH BORDERS ,42,Eyemouth,55.8919868469238,-2.13510990142822,2013/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/coldingham-bay-beach
+-2.78195799999997,56.336661,17,ST ANDREWS EAST SANDS,FIFE,42,Glenrothes,56.3366622924805,-2.78195810317993,2015/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/st-andrews-east-sands-beach
+-2.80523699999998,56.3456580000001,18,ST ANDREWS WEST SANDS,FIFE,42,Glenrothes,56.3471832275391,-2.80585289001465,2016/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/st-andrews-west-sands-beach
+-5.29527899999994,51.8962680000001,19,WHITESANDS,PEMBROKESHIRE,27,Haverfordwest,51.896268,-5.295279,2008/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/whitesands-beach
+-3.06393099999997,53.608345,20,AINSDALE,SEFTON,31,Formby,53.608345,-3.063931,2010/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/ainsdale-beach
+-3.10331699999995,53.5519580000001,21,FORMBY,SEFTON,30,Formby,53.5519561767578,-3.10331702232361,2010/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/formby-beach
+-3.11882999999995,53.4162450000001,22,MORETON,WIRRAL,30,Wirral,53.416245,-3.11883,2015/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/moreton-beach
+-0.183922,54.0856450000001,23,BRIDLINGTON NORTH,EAST RIDING,7,Scarborough,54.085645,-0.183922,2009/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/bridlington-north-beach
+-0.160317,53.9123490000001,25,HORNSEA,EAST RIDING,7,Scarborough,53.912349,-0.160317,2009/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/hornsea-beach
+-0.668598,54.501089,26,SANDSEND,SCARBOROUGH,6,Scarborough,54.5010871887207,-0.668597996234894,2011/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/sandsend-beach
+-0.408577,54.2947490000001,27,SCARBOROUGH NORTH BAY,SCARBOROUGH,7,Scarborough,54.294749,-0.408577,2009/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/scarborough-north-bay-beach
+0.349004,53.1410480000001,28,SKEGNESS,EAST LINDSEY,8,Skegness,53.141048,0.349004,2009/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/skegness-beach
+0.283685,53.3146080000001,29,SUTTON-ON-SEA,EAST LINDSEY,8,Skegness,53.314608,0.283685,2009/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/sutton-on-sea-beach
+-0.62241,54.4912140000001,30,WHITBY,SCARBOROUGH,6,Scarborough,54.4912147521973,-0.622409999370575,2009/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/whitby-beach
+-0.208006,54.0669370000001,31,BELVEDERE,EAST RIDING,7,Scarborough,54.066937,-0.208006,2013/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/belvedere-beach
+-5.06853699999994,50.1445410000001,32,GYLLYNGVASE,CORNWALL,20,Perranporth,50.1445426940918,-5.06853723526001,2002/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/gyllyngvase-beach
+-4.99463799999995,50.53966,33,HARLYN,CORNWALL,23,Padstow,50.53966,-4.994638,2004/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/harlyn-beach
+-5.14517799999993,50.391401,34,HOLYWELL BAY,CORNWALL,20,Perranporth,50.391401,-5.145178,2002/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/holywell-bay-beach
+-5.16344199999997,50.0057810000001,35,KENNACK,CORNWALL,20,Helston,50.005781,-5.163442,2008/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/kennack-beach
+-5.06439999999998,50.4218000000001,36,LUSTY GLAZE,PRIVATE BEACH OWNER,20,Newquay,50.4218,-5.0644,2002/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/lusty-glaze-beach
+-5.44229299999995,50.1122570000001,37,PERRANUTHNOE,CORNWALL,21,Hayle,50.112257,-5.442293,2016/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/perranuthnoe-beach
+-5.07599899999997,50.416303,38,GREAT WESTERN,CORNWALL,20,Newquay,50.416303,-5.075999,2001/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/great-western-beach
+-5.07385199999993,50.4167790000001,39,TOLCARNE,PRIVATE BEACH OWNER,20,Newquay,50.416779,-5.073852,2002/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/tolcarne-beach
+-5.08443999999997,50.4149100000001,40,TOWAN,CORNWALL,20,Newquay,50.41491,-5.08444,2001/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/towan-beach
+-5.15104799999995,50.358666,41,PERRAN SANDS,CORNWALL,20,Perranporth,50.358666,-5.151048,2002/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/perran-sands-beach
+-5.15314999999993,50.3495770000001,42,PERRANPORTH,CORNWALL,20,Perranporth,50.349577,-5.15315,2002/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/perranporth-beach
+-5.43947299999996,50.19341,43,PORTHKIDNEY,CORNWALL,21,Hayle,50.19341,-5.439473,2008/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/porthkidney-beach
+-5.02248399999996,50.5322390000001,44,CONSTANTINE,CORNWALL,23,Padstow,50.532239,-5.022484,2004/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/constantine-beach
+-4.63376599999998,50.7412190000001,45,CRACKINGTON HAVEN,CORNWALL,23,Bude,50.741219,-4.633766,2004/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/crackington-haven-beach
+-5.11837899999995,50.4066780000001,46,CRANTOCK,CORNWALL,23,Newquay,50.406678,-5.118379,2001/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/crantock-beach
+-5.46517799999998,50.198293,48,CARBIS BAY,CORNWALL,21,Hayle,50.198293,-5.465178,2008/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/carbis-bay-beach
+-5.25986899999998,50.033892,49,POLDHU COVE,CORNWALL,20,Helston,50.033892,-5.259869,2008/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/poldhu-cove-beach
+-4.91409999999996,50.5736000000001,50,POLZEATH,CORNWALL,23,Wadebridge,50.573600769043,-4.9141001701355,2004/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/polzeath-beach
+-5.25596699999994,50.02414,51,POLURRIAN COVE,CORNWALL,20,Helston,50.02414,-5.255967,2008/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/polurrian-cove-beach
+-5.65154599999994,50.0435440000001,52,PORTHCURNO,CORNWALL,21,Hayle,50.043544,-5.651546,2008/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/porthcurno-beach
+-5.31365199999993,50.0809850000001,53,PORTHLEVEN,CORNWALL,21,Helston,50.0809860229492,-5.31365203857422,2008/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/porthleven-beach
+-1.36565899999994,54.925326,54,ROKER,SUNDERLAND,6,Stockton - EAM,54.925326,-1.365659,2009/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/roker-beach
+-1.36688699999996,54.929041,55,CATS AND DOGS,SUNDERLAND,6,Stockton - EAM,54.929041,-1.366887,2010/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/cats-and-dogs-beach
+-0.972481,54.5866930000001,56,SALTBURN,REDCAR AND CLEVELAND,6,Scarborough,54.5866928100586,-0.97248101234436,2012/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/saltburn-beach
+-5.24226499999997,50.286706,57,PORTHTOWAN,CORNWALL,20,Perranporth,50.286706,-5.242265,2002/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/porthtowan-beach
+-1.36797699999994,54.93647,58,SEABURN,SUNDERLAND,6,Stockton - EAM,54.93647,-1.367977,2009/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/seaburn-beach
+-5.29390699999993,50.2608240000001,59,PORTREATH,CORNWALL,20,Helston,50.260824,-5.293907,2008/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/portreath-beach
+-1.40841999999998,54.9962080000001,60,SANDHAVEN (MOWBRAY),SOUTH TYNESIDE,5,Stockton - EAM,54.996208,-1.40842,2009/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/sandhaven-mowbray-beach
+-1.42587799999995,55.023674,63,TYNEMOUTH LONGSANDS,NORTH TYNESANDS,5,Stockton - EAM,55.023674,-1.425878,2010/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/tynemouth-longsands-beach
+-1.44830799999994,55.0504500000001,64,WHITLEY BAY,NORTH TYNESANDS,5,Stockton - EAM,55.05045,-1.448308,2010/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/whitley-bay-beach
+-1.45144099999993,55.0547550000001,65,WHITLEY BAY NORTH,NORTH TYNESANDS,5,Stockton - EAM,55.054755,-1.451441,2010/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/whitley-bay-north-beach
+-5.38979899999993,50.1036980000001,66,PRAA SANDS,CORNWALL,21,Helston,50.1036987304688,-5.38979911804199,2008/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/praa-sands-beach
+-5.47630099999998,50.2086340000001,67,PORTHMINSTER,CORNWALL,21,Hayle,50.208634,-5.476301,2008/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/porthminster-beach
+-5.48315299999996,50.2149410000001,68,PORTHMEOR,CORNWALL,21,Hayle,50.214941,-5.483153,2008/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/porthmeor-beach
+-5.42983599999997,50.1974420000001,69,HAYLE TOWANS,CORNWALL,21,Hayle,50.197442,-5.429836,2008/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/hayle-towans-beach
+-4.97693399999997,50.5455470000001,70,TREVONE,CORNWALL,23,Padstow,50.545547,-4.976934,2004/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/trevone-beach
+-5.02229999999997,50.5263660000001,71,TREYARNON,CORNWALL,23,Padstow,50.526366,-5.0223,2004/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/treyarnon-beach
+-5.04197099999993,50.4444920000001,72,WATERGATE BAY,PRIVATE BEACH OWNER,20,Newquay,50.444492,-5.041971,2002/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/watergate-bay-beach
+-4.55689299999995,50.7930050000001,73,WIDEMOUTH,CORNWALL,23,Bude,50.793005,-4.556893,2006/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/widemouth-beach
+0.795179,50.9329060000001,75,CAMBER CENTRAL,ROTHER (THIS IS ACTUALLY CORRECT),13,Hastings,50.932906,0.795179,2017/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/camber-central-beach
+-3.87890099999993,50.2769040000001,76,BANTHAM,SOUTH HAMS,19,Kingsbridge,50.276904,-3.878901,2002/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/bantham-beach
+-3.01671699999997,51.281568,77,BERROW,SEDGEMOOR,24,Mullacott,51.281568,-3.016717,2013/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/berrow-beach
+-3.61106199999995,50.3191570000001,79,BLACKPOOL SANDS,SOUTH HAMS,19,Kingsbridge,50.319157,-3.611062,2006/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/blackpool-sands-beach
+0.922633,51.39968,80,LEYSDOWN-ON-SEA,SWALE,12,Ramsgate,51.39968,0.922633,2013/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/leysdown-on-sea-beach
+-1.89619199999993,50.7108430000001,81,ALUM CHINE,BOURNEMOUTH,16,Poole,50.710843,-1.896192,2001/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/alum-chine-beach
+-1.88742999999994,50.7134290000001,82,DURLEY CHINE,BOURNEMOUTH,16,Poole,50.713429,-1.88743,2001/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/durley-chine-beach
+-1.79579399999994,50.719432,83,SOUTHBOURNE,BOURNEMOUTH,16,Poole,50.719432,-1.795794,2001/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/southbourne-beach
+-0.535654,50.802401,85,LITTLEHAMPTON EAST (EAST),ARUN,14,Chichester,50.8024024963379,-0.535654008388519,2013/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/littlehampton-east-beach-east-lifeguard-unit
+-0.541589,50.802261,86,LITTLEHAMPTON EAST (WEST),ARUN,14,Chichester,50.8022613525391,-0.541589021682739,2013/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/littlehampton-east-beach-west-lifeguard-unit
+1.28098500000004,51.3784690000001,87,MINNIS BAY,THANET,12,Ramsgate,51.378469,1.280985,2012/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/minnis-bay-beach
+-1.72786599999995,50.7331810000001,89,FRIARS CLIFF,CHRISTCHURCH,16,Poole,50.733181,-1.727866,2009/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/friars-cliff-beach
+-1.69614399999995,50.736923,90,HIGHCLIFFE,CHRISTCHURCH,16,Poole,50.736923,-1.696144,2009/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/highcliffe-beach
+-4.23787399999998,51.1328820000001,91,CROYDE,NORTH DEVON,24,Mullacott,51.132882,-4.237874,2006/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/croyde-beach
+-3.43948399999994,50.5981340000001,92,DAWLISH WARREN,TEIGNBRIDGE,18,Dawlish,50.598134,-3.439484,2009/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/dawlish-warren-beach
+-3.40636799999993,50.611454,93,EXMOUTH,EAST DEVON,18,Dawlish,50.611454,-3.406368,2008/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/exmouth-beach
+1.42456300000003,51.3318100000001,94,RAMSGATE,THANET,12,Ramsgate,51.33181,1.424563,2012/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/ramsgate-main-beach
+0.76296,51.4419750000001,96,SHEERNESS,SWALE,11,Ramsgate,51.4419746398926,0.762960016727448,2013/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/sheerness-beach
+1.44539100000003,51.3648010000001,98,STONE BAY,THANET,12,Ramsgate,51.364801,1.445391,2012/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/stone-bay-beach
+1.30305600000003,52.931652,99,CROMER EAST,NORTH NORFOLK,44,Catfield,52.9316520690918,1.30305600166321,2007/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/cromer-east-beach
+1.29146800000007,52.9342130000001,100,CROMER WEST,NORTH NORFOLK,44,Catfield,52.934211730957,1.29146802425385,2007/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/cromer-west-beach
+1.27406100000007,52.9372700000001,101,EAST RUNTON,NORTH NORFOLK,9,Catfield,52.93727,1.274061,2010/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/east-runton-beach
+1.73274100000003,52.5696100000001,102,GORLESTON,GREAT YARMOUTH,9,Catfield,52.56961,1.732741,2008/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/gorleston-beach
+1.73974500000003,52.6062250000001,103,GREAT YARMOUTH,GREAT YARMOUTH,9,Catfield,52.606225,1.739745,2008/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/great-yarmouth-beach
+1.70890700000007,52.6948410000001,104,HEMSBY,GREAT YARMOUTH,9,Catfield,52.694841,1.708907,2008/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/hemsby-beach
+1.74438500000002,52.4636160000001,105,LOWESTOFT SOUTH,WAVENEY,9,Catfield,52.463616,1.744385,2013/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/lowestoft-south-beach
+1.74848900000006,52.4693310000001,106,LOWESTOFT NORTH,WAVENEY,9,Catfield,52.469331,1.748489,2013/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/lowestoft-north-beach
+1.43826300000006,52.8782420000001,107,MUNDESLEY,NORTH NORFOLK,9,Catfield,52.878242,1.438263,2007/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/mundesley-beach
+-4.05140099999994,52.481476,109,BORTH,CEREDIGION,28,Cardigan,52.481476,-4.051401,2009/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/borth-beach
+-1.90930099999997,50.706103,110,BRANKSOME CHINE,POOLE,16,Poole,50.706103,-1.909301,2001/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/branksome-chine-beach
+-1.93754999999993,50.6882830000001,111,SANDBANKS,POOLE,16,Poole,50.688283,-1.93755,2001/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/sandbanks-beach
+-1.92939499999994,50.69478,112,SHORE ROAD,POOLE,16,Poole,50.69478,-1.929395,2001/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/shore-road-beach
+-4.38403799999998,50.3636310000001,113,SEATON,CORNWALL,20,Saltash,50.363631,-4.384038,2017/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/seaton-beach
+-3.64568699999995,50.2855460000001,114,SLAPTON SANDS (MONUMENT),SOUTH HAMS,19,Kingsbridge,50.285546,-3.645687,2002/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/slapton-sands-monument-beach
+-1.95737599999995,50.610712,115,SWANAGE,SWANAGE,16,Poole,50.610710144043,-1.95737600326538,2016/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/swanage-beach
+-4.23698499999995,51.042765,117,WESTWARD HO!,TORRIDGE,24,Mullacott,51.042765,-4.236985,2004/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/westward-ho-beach
+-4.20918699999993,51.1711110000001,119,WOOLACOMBE,NORTH DEVON,24,Mullacott,51.171111,-4.209187,2006/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/woolacombe-beach
+-4.54624099999995,52.134666,121,ABERPORTH,CEREDIGION,28,Cardigan,52.134666,-4.546241,2009/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/aberporth-beach
+-4.65478599999994,51.7330370000001,122,AMROTH,PEMBROKESHIRE,26,Haverfordwest,51.7330360412598,-4.65478610992432,2008/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/amroth-beach
+-5.10199499999993,51.7831170000001,123,BROAD HAVEN,PEMBROKESHIRE,27,Haverfordwest,51.783117,-5.101995,2008/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/broad-haven-beach
+-4.03491899999995,51.5703350000001,124,CASWELL,SWANSEA,26,Swansea,51.570335,-4.034919,2009/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/caswell-beach
+-4.01002999999997,51.568365,125,LANGLAND,SWANSEA,26,Swansea,51.568365,-4.01003,2009/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/langland-beach
+-5.29489999999993,51.8525000000001,127,NEWGALE NORTH,PEMBROKESHIRE,27,Haverfordwest,51.8525,-5.2949,2015/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/newgale-north-beach
+-5.12293399999993,51.852064,128,NEWGALE CENTRAL,PEMBROKESHIRE,27,Haverfordwest,51.852064,-5.122934,2008/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/newgale-central-beach
+-5.11839099999997,51.8462650000001,129,NEWGALE SOUTH,PEMBROKESHIRE,27,Haverfordwest,51.846265,-5.118391,2008/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/newgale-south-beach
+-4.83749399999994,52.028844,130,NEWPORT SANDS,PEMBROKESHIRE,27,Cardigan,52.0288429260254,-4.83749389648438,2008/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/newport-sands-beach
+-4.35785599999997,52.2140240000001,131,NEW QUAY HARBOUR,CEREDIGION,28,Cardigan,52.214024,-4.357856,2009/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/new-quay-harbour-beach
+-4.31371799999994,51.674335,132,PEMBREY,CARMARTHENSHIRE,26,Swansea,51.674335,-4.313718,2009/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/pembrey-beach
+-4.55684899999994,51.742171,133,PENDINE SANDS,PENDINE,26,Haverfordwest,51.7421722412109,-4.55684900283813,2009/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/pendine-beach
+-4.69827599999996,52.1054530000001,134,POPPIT SANDS,PEMBROKESHIRE,28,Cardigan,52.105453,-4.698276,2008/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/poppit-sands-beach
+-4.20944399999996,51.5441890000001,135,PORT EYNON,SWANSEA,26,Swansea,51.544189,-4.209444,2009/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/port-eynon-beach
+-3.72351799999996,51.488911,137,REST BAY,BRIDGEND ,25,Bridgend,51.488911,-3.723518,2016/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/rest-bay-beach
+-3.66269599999993,51.479588,138,TRECCO BAY,BRIDGEND ,25,Bridgend,51.479588,-3.662696,2016/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/trecco-beach
+-4.69791599999996,51.7113140000001,140,SAUNDERSFOOT,PEMBROKESHIRE,26,Haverfordwest,51.7113151550293,-4.69791603088379,2008/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/saundersfoot-beach
+-3.60590499999995,51.4463430000001,141,SOUTHERNDOWN,VALE OF GLAMORGAN,25,Bridgend,51.446343,-3.605905,2012/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/southerndown-beach
+-4.70392699999996,51.6678460000001,142,TENBY SOUTH,PEMBROKESHIRE,26,Haverfordwest,51.6678466796875,-4.7039270401001,2008/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/tenby-south-beach
+-4.70193599999993,51.675935,143,TENBY NORTH,PEMBROKESHIRE,26,Haverfordwest,51.6759338378906,-4.70193576812744,2008/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/tenby-north-beach
+-4.69539199999997,51.6719620000001,144,TENBY CASTLE,PEMBROKESHIRE,26,Haverfordwest,51.6719627380371,-4.69539213180542,2008/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/tenby-castle-beach
+-4.11251299999998,51.5726490000001,145,THREE CLIFFS,NATIONAL TRUST,26,Swansea,51.572649,-4.112513,2016/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/three-cliffs-beach
+-4.51747999999998,52.135254,146,TRESAITH,CEREDIGION,28,Cardigan,52.135254,-4.51748,2009/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/tresaith-beach
+-4.08496099999996,52.4170760000001,147,ABERYSTWYTH NORTH,CEREDIGION,28,Cardigan,52.417076,-4.084961,2009/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/aberystwyth-north-beach
+-4.08893999999998,52.40995,148,ABERYSTWYTH SOUTH,CEREDIGION,28,Cardigan,52.40995,-4.08894,2009/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/aberystwyth-south-beach
+-6.23600799999997,55.204412,149,BALLYCASTLE,CAUSEWAY COAST AND GLENS,35,Ballymoney,55.204412,-6.236008,2016/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/ballycastle-beach
+0.481287,50.8381150000001,150,BEXHILL-ON-SEA,ROTHER,13,Hastings,50.838115,0.481287,2017/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/bexhill-on-sea-beach
+-3.05890399999993,53.4969600000001,151,CROSBY,SEFTON,30,Formby,53.4969596862793,-3.05890393257141,2010/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/crosby-beach
+-0.6726,50.7818,152,BOGNOR REGIS,ARUN,14,Chichester,50.7817993164063,-0.672599971294403,2016/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/bognor-regis-beach
+-1.84188599999993,50.7197170000001,153,BOSCOMBE EAST,BOURNEMOUTH,16,Poole,50.719717,-1.841886,2001/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/boscombe-east-beach
+-1.84482099999997,50.7195360000001,154,BOSCOMBE WEST,BOURNEMOUTH,16,Poole,50.719536,-1.844821,2001/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/boscombe-west-beach
+-1.87381099999993,50.7159790000001,155,BOURNEMOUTH EAST,BOURNEMOUTH,16,Poole,50.715979,-1.873811,2001/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/bournemouth-east-beach-east-cliff
+-1.87717799999996,50.7155760000001,156,BOURNEMOUTH WEST,BOURNEMOUTH,16,Poole,50.715576,-1.877178,2001/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/bournemouth-west-beach-west-cliff
+-0.199535,54.0766820000001,157,BRIDLINGTON SOUTH,EAST RIDING,7,Scarborough,54.076682,-0.199535,2009/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/bridlington-south-beach
+-2.99959999999993,51.2341690000001,160,BURNHAM-ON-SEA,SEDGEMOOR,24,Mullacott,51.234169,-2.9996,2013/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/burnham-on-sea-beach
+-3.22541699999994,56.0601280000001,161,BURNTISLAND,FIFE,42,Glenrothes,56.0601272583008,-3.22541689872742,2015/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/burntisland-beach
+-6.79016599999994,55.167646,162,CASTLEROCK,CAUSEWAY COAST AND GLENS,35,Ballymoney,55.167646,-6.790166,2011/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/castlerock-beach
+-0.363846,54.2446810000001,163,CAYTON BAY,SCARBOROUGH,7,Scarborough,54.244681,-0.363846,2013/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/cayton-bay-beach
+-4.07945899999993,52.433924,164,CLARACH,CEREDIGION,28,Cardigan,52.433924,-4.079459,2009/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/clarach-beach
+-6.07184499999994,54.03011,165,CRANFIELD,"NEWRY CITY, MOURNE AND DOWN",35,Ballymoney,54.03011,-6.071845,2012/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/cranfield-beach
+-2.81623799999994,56.1886660000001,166,ELIE HARBOUR,FIFE,42,Glenrothes,56.1886672973633,-2.81623792648315,2016/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/elie-harbour-beach
+-0.284232,54.208872,167,FILEY,SCARBOROUGH,7,Scarborough,54.208872,-0.284232,2009/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/filey-beach
+-5.05856599999993,51.6561800000001,168,FRESHWATER WEST,PEMBROKESHIRE,26,Haverfordwest,51.6561813354492,-5.05856609344482,2020/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/freshwater-west-beach
+-5.26668499999994,50.039088,169,GUNWALLOE,CORNWALL,20,Helston,50.039088,-5.266685,2008/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/gunwalloe-beach
+-3.85915399999993,50.2459950000001,170,HOPE COVE,SOUTH HAMS,19,Kingsbridge,50.245995,-3.859154,2009/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/hope-cove-beach
+0.354127,53.193314,171,INGOLDMELLS,PRIVATE BEACH OWNER,8,Skegness,53.193314,0.354127,2014/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/ingoldmells-beach
+1.44583700000004,51.3795640000001,172,JOSS BAY,THANET,12,Ramsgate,51.379564,1.445837,2012/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/joss-bay-beach
+-2.98449099999993,56.1997420000001,173,LEVEN,FIFE,42,Glenrothes,56.1997413635254,-2.98449110984802,2015/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/leven-beach
+-4.47100599999993,52.159952,174,LLANGRANNOG,CEREDIGION,28,Cardigan,52.159952,-4.471006,2009/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/llangrannog-beach
+0.264248,53.3440140000001,175,MABLETHORPE,EAST LINDSEY,8,Skegness,53.344014,0.264248,2009/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/mablethorpe-beach
+1.37627000000003,51.387528,177,MARGATE MAIN,THANET,12,Ramsgate,51.387528,1.37627,2012/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/margate-main-beach
+-5.03162499999996,50.466171,178,MAWGAN PORTH,NEWQUAY & PADSTOW,22,Newquay,50.466171,-5.031625,2001/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/mawgan-porth-beach
+0.803683,51.4332890000001,179,MINSTER-ON-SEA,SWALE,12,Ramsgate,51.433289,0.803683,2013/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/minster-on-sea-beach
+-5.85446699999994,54.230851,180,MURLOUGH,"NEWRY CITY, MOURNE AND DOWN",36,Ballymoney,54.2308502197266,-5.85446691513062,2012/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/murlough-beach
+-5.09790299999997,50.4179710000001,181,FISTRAL,CORNWALL,23,Newquay,50.417971,-5.097903,2001/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/fistral-beach
+-5.10227799999996,50.413035,182,SOUTH FISTRAL,CORNWALL,20,Newquay,50.413035,-5.102278,2001/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/south-fistral-beach
+-5.10772899999995,51.82489,183,NOLTON HAVEN,PEMBROKESHIRE,27,Haverfordwest,51.82489,-5.107729,2008/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/nolton-haven-beach
+-3.64034299999997,51.4674850000001,184,OGMORE,VALE OF GLAMORGAN,25,Bridgend,51.467485,-3.640343,2012/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/ogmore-beach
+-2.22928399999995,49.256696,185,PLEMONT,JERSEY,17,Jersey,49.256696,-2.229284,2011/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/plemont-beach
+-1.92043699999994,50.700637,186,CANFORD CLIFFS,POOLE,16,Poole,50.700637,-1.920437,2003/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/canford-cliffs-beach
+-5.05817799999994,50.4240350000001,187,PORTH,CORNWALL,20,Newquay,50.424035,-5.058178,2001/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/porth-beach
+-5.02323799999994,50.5088420000001,188,PORTHCOTHAN,CORNWALL,23,Padstow,50.508842,-5.023238,2004/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/porthcothan-beach
+-6.64830899999993,55.203896,189,PORTRUSH EAST,CAUSEWAY COAST AND GLENS,35,Ballymoney,55.203896,-6.648309,2011/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/portrush-east-beach
+-6.65590299999997,55.200584,190,PORTRUSH WEST,CAUSEWAY COAST AND GLENS,35,Ballymoney,55.200584,-6.655903,2011/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/portrush-west-beach
+-3.40259699999996,53.3448050000001,191,PRESTATYN,DENBIGHSHIRE,30,Wirral,53.3448066711426,-3.40259695053101,2016/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/prestatyn-beach
+-1.06707899999998,54.6196830000001,192,REDCAR,REDCAR AND CLEVELAND,6,Scarborough,54.6196823120117,-1.06707894802094,2012/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/redcar-beach
+-3.43789499999997,53.3360040000001,193,RHYL,DENBIGHSHIRE,30,Wirral,53.3360023498535,-3.43789505958557,2016/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/rhyl-beach
+-0.749644,54.532655,194,RUNSWICK BAY,SCARBOROUGH,7,Scarborough,54.532655,-0.749644,2017/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/runswick-bay-beach
+-3.36469499999993,50.6100250000001,195,SANDY BAY,PRIVATE BEACH OWNER,18,Dawlish,50.610025,-3.364695,2007/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/sandy-bay-beach
+-0.395871,54.2819700000001,196,SCARBOROUGH SOUTH BAY,SCARBOROUGH,7,Scarborough,54.28197,-0.395871,2009/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/scarborough-south-bay-beach
+1.60257200000007,52.7900700000001,197,SEA PALLING,NORTH NORFOLK,9,Catfield,52.79007,1.602572,2007/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/sea-palling-beach
+-5.69408399999998,50.08023,198,SENNEN,CORNWALL,21,Hayle,50.08023,-5.694084,2008/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/sennen-beach
+1.21474500000005,52.9453100000001,199,SHERINGHAM EAST,NORTH NORFOLK,9,Catfield,52.94531,1.214745,2014/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/sheringham-east-beach
+1.20838000000003,52.9456660000001,200,SHERINGHAM WEST,NORTH NORFOLK,9,Catfield,52.945666,1.20838,2007/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/sheringham-west-beach
+-3.02170899999993,53.648899,201,SOUTHPORT,SEFTON,31,Formby,53.648899,-3.021709,2010/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/southport-beach
+-1.09878399999997,50.784254,202,SOUTHSEA CENTRAL,PORTSMOUTH,47,Chichester,50.784254,-1.098784,2013/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/southsea-central-beach
+1.68120400000004,52.324713,204,SOUTHWOLD SOUTH,WAVENEY,9,Catfield,52.324713,1.681204,2015/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/southwold-south-beach
+1.68455900000004,52.3300840000001,205,SOUTHWOLD NORTH,WAVENEY,9,Catfield,52.330084,1.684559,2013/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/southwold-north-beach
+0.554889,50.850625,206,MARINA ST LEONARDS,HASTINGS,13,Hastings,50.850625,0.554889,2017/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/st-leonards-beach
+1.34291500000006,51.3847890000001,207,ST MILDRED'S,THANET,12,Ramsgate,51.384789,1.342915,2012/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/st-mildreds-beach
+-2.22311199999996,49.2048280000001,209,ST OUEN'S BAY,JERSEY,17,Jersey,49.204828,-2.223112,2011/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/st-ouens-bay-beach
+-3.49318699999998,50.5459740000001,211,TEIGNMOUTH NORTH,TEIGNBRIDGE,19,Dawlish,50.545974,-3.493187,2009/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/teignmouth-north-beach
+-3.49533299999996,50.5436100000001,212,TEIGNMOUTH SOUTH,TEIGNBRIDGE,19,Dawlish,50.543773,-3.495246,2009/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/teignmouth-south-beach
+-5.39150599999994,50.231702,213,GODREVY,CORNWALL,21,Hayle,50.231702,-5.391506,2008/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/godrevy-beach
+-4.76100299999996,50.6448040000001,214,TREBARWITH,CORNWALL,23,Wadebridge,50.6448020935059,-4.76100301742554,2004/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/trebarwith-strand-beach
+-4.27103699999998,50.353165,215,TREGANTLE,CORNWALL,20,Saltash,50.353165,-4.271037,2001/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/tregantle-beach
+-4.24191899999994,50.340583,216,TREGONHAWKE,CORNWALL,20,Saltash,50.340583,-4.241919,2001/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/tregonhawke-beach
+-5.20189599999998,50.3192670000001,217,ST AGNES,CORNWALL,20,Perranporth,50.319267,-5.201896,2002/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/st-agnes-beach
+-1.42994499999998,55.0331580000001,218,CULLERCOATS,NORTH TYNESANDS,5,Stockton - EAM,55.033158,-1.429945,2010/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/cullercoats-beach
+-1.43019099999998,55.03054,219,TYNEMOUTH LONGSANDS NORTH,NORTH TYNESANDS,5,Stockton - EAM,55.03054,-1.430191,2014/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/tynemouth-longsands-north-beach
+1.25153500000005,52.9414840000001,221,WEST RUNTON,NORTH NORFOLK,9,Catfield,52.941484,1.251535,2016/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/west-runton-beach
+1.36342300000007,51.385855,222,WESTBROOK BAY,THANET,12,Ramsgate,51.385855,1.363423,2012/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/westbrook-bay-beach
+-3.27457599999997,51.390498,224,WHITMORE BAY (BARRY),VALE OF GLAMORGAN,25,Bridgend,51.390498,-3.274576,2012/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/whitmore-bay-beach
+-4.55336299999993,50.8322400000001,226,SUMMERLEAZE,CORNWALL,23,Bude,50.83224,-4.553363,2006/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/summerleaze-beach
+-1.86609899999996,50.7173990000001,227,EAST CLIFF,BOURNEMOUTH,16,Poole,50.717399,-1.866099,2002/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/east-cliff-beach
+-1.83247799999998,50.7204620000001,228,MANOR STEPS,BOURNEMOUTH,16,Poole,50.720462,-1.832478,2002/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/manor-steps-beach
+-3.89760499999994,50.2880470000001,229,CHALLABOROUGH,SOUTH HAMS,19,Kingsbridge,50.288047,-3.897605,2002/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/challaborough-beach
+-2.44691099999994,50.621679,230,GREENHILL,WEYMOUTH & PORTLAND,18,Weymouth,50.621679,-2.446911,2001/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/greenhill-beach
+-3.89351699999997,50.2819170000001,231,SEDGEWELL COVE (BIGBURY-ON-SEA),SOUTH HAMS,19,Kingsbridge,50.281917,-3.893517,2002/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/sedgewell-cove-beach
+-4.25402399999996,50.3459290000001,232,FREATHY,CORNWALL,20,Saltash,50.345929,-4.254024,2001/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/freathy-beach
+-4.25907799999993,50.3473290000001,233,SHARROW,CORNWALL,20,Saltash,50.347329,-4.259078,2001/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/sharrow-beach
+-5.23434299999997,50.3002720000001,234,CHAPEL PORTH,CORNWALL,23,Perranporth,50.300272,-5.234343,2002/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/chapel-porth-beach
+-5.02435799999995,50.5381370000001,235,BOOBY'S,CORNWALL,23,Padstow,50.538137,-5.024358,2004/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/boobys-beach
+-4.55773699999997,50.788486,236,BLACK ROCK,CORNWALL,23,Bude,50.788486,-4.557737,2006/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/black-rock-beach
+-4.55469699999998,50.8483160000001,237,NORTHCOTT,CORNWALL,23,Bude,50.848316,-4.554697,2006/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/northcott-beach
+-4.23084899999998,51.0524160000001,238,SANDYMERE,TORRIDGE,24,Mullacott,51.052416,-4.230849,2004/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/sandymere-beach
+-5.47705799999994,50.1245680000001,240,MARAZION,CORNWALL,21,Hayle,50.124568,-5.477058,2008/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/marazion-beach
+-5.42349799999994,50.2007580000001,241,MEXICO TOWANS,CORNWALL,21,Hayle,50.200758,-5.423498,2008/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/mexico-towans-beach
+-5.40995199999998,50.2087330000001,242,BEACH VIEW,CORNWALL,21,Hayle,50.208733,-5.409952,2008/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/beach-view-beach
+-5.41636299999993,50.2044330000001,243,UPTON TOWANS,CORNWALL,21,Hayle,50.204433,-5.416363,2008/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/upton-towans-beach
+-3.09587699999997,53.4235200000001,244,LEASOWE BAY,WIRRAL,30,Wirral,53.42352,-3.095877,2017/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/leasowe-bay-beach
+-5.68796099999997,50.088265,245,GWENVER,CORNWALL,21,Hayle,50.088265,-5.687961,2008/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/gwenver-beach
+-6.65588099999997,55.2058670000001,246,PORTRUSH WEST HARBOUR,CAUSEWAY COAST AND GLENS,35,Ballymoney,55.205867,-6.655881,2014/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/portrush-west-harbour-beach
+-3.81692599999997,51.59351,249,ABERAVON,PORT TALBOT,26,Swansea,51.59351,-3.816926,2010/01/01 00:00:00+00,https://rnli.org/find-my-nearest/lifeguarded-beaches/aberavon-beach
+-3.28679394699998,56.0538291930001,251,ABERDOUR SILVERSANDS,,42,Glenrothes,56.0538291931152,-3.28679394721985,,https://rnli.org/find-my-nearest/lifeguarded-beaches/aberdour-silver-sands-beach
+-3.89501190199996,50.282169342,252,BIGBURY-ON-SEA,,19,Kingsbridge,50.282169342041,-3.89501190185547,,https://rnli.org/find-my-nearest/lifeguarded-beaches/bigbury-on-sea-north-beach
+1.43501496300007,51.3888664250001,253,BOTANY BAY,,12,Ramsgate,51.3888664245605,1.43501496315002,,https://rnli.org/find-my-nearest/lifeguarded-beaches/botany-bay-beach
+1.44281303900004,51.357543945,254,BROADSTAIRS (VIKING BAY),,12,Ramsgate,51.3575439453125,1.44281303882599,,https://rnli.org/find-my-nearest/lifeguarded-beaches/broadstairs-viking-bay-beach
+0.786809027000061,50.9335594180001,255,CAMBER WEST,,13,Hastings,50.9335594177246,0.786809027194977,,https://rnli.org/find-my-nearest/lifeguarded-beaches/camber-west-beach
+-3.69476103799997,51.4773063660001,256,CONEY/SANDY BAY,,25,Bridgend,51.4773063659668,-3.69476103782654,,https://rnli.org/find-my-nearest/lifeguarded-beaches/coney/sandy-bay-beach
+-6.82304382299998,55.1667594910001,257,DOWNHILL STRAND,,35,Ballymoney,55.1667594909668,-6.82304382324219,,https://rnli.org/find-my-nearest/lifeguarded-beaches/downhill-strand-beach
+-6.87489891099995,55.1674194340001,258,BENONE STRAND,,35,Ballymoney,55.1674194335938,-6.87489891052246,,https://rnli.org/find-my-nearest/lifeguarded-beaches/benone-strand-beach
+-5.39583587599998,50.224243164,259,GWITHIAN NORTH,,21,Hayle,50.2242431640625,-5.39583587646484,,https://rnli.org/find-my-nearest/lifeguarded-beaches/gwithian-beach
+-1.81723499299994,50.7207298280001,260,FISHERMAN'S WALK,,16,Poole,50.7207298278809,-1.81723499298096,,https://rnli.org/find-my-nearest/lifeguarded-beaches/fishermans-walk-beach
+-3.50229692499994,51.396816254,261,LLANTWIT MAJOR,,25,Bridgend,51.3968162536621,-3.50229692459106,,https://rnli.org/find-my-nearest/lifeguarded-beaches/llantwit-major-beach
+-1.42037296299998,55.018604279,262,KING EDWARD'S BAY,,5,Stockton - EAM,55.018604,-1.420373,,https://rnli.org/find-my-nearest/lifeguarded-beaches/king-edwards-bay-beach
+-2.93775010099995,50.722587585,264,LYME REGIS (COBB),,18,Weymouth,50.7225875854492,-2.93775010108948,,https://rnli.org/find-my-nearest/lifeguarded-beaches/lyme-regis-beach
+-1.41404604899998,55.0013275150001,265,SANDHAVEN (CENTRE),,5,Stockton - EAM,55.001327,-1.414046,,https://rnli.org/find-my-nearest/lifeguarded-beaches/sandhaven-centre-beach
+-2.22365093199994,49.2082901000001,266,"WATERSPLASH, ST OUEN'S",,17,Jersey,49.2082901000977,-2.22365093231201,,https://rnli.org/find-my-nearest/lifeguarded-beaches/watersplash-beach
+-2.76155495599994,50.710010529,268,WEST BAY (DORSET),,17,Weymouth,50.710009,-2.761555,,https://rnli.org/find-my-nearest/lifeguarded-beaches/west-bay-beach-dorset
+-2.45294499399995,50.6124458310001,269,WEYMOUTH (MAIN),,17,Weymouth,50.612446,-2.452945,,https://rnli.org/find-my-nearest/lifeguarded-beaches/weymouth-beach
+0.585888028000056,50.854362488,270,HASTINGS PELHAM,,13,Hastings,50.854362487793,0.585888028144836,,https://rnli.org/find-my-nearest/lifeguarded-beaches/hastings-pelham-beach
+0.570209980000072,50.8529396060001,271,HASTINGS PIER,,13,Hastings,50.8529396057129,0.570209980010986,,https://rnli.org/find-my-nearest/lifeguarded-beaches/hastings-pier-beach
+-5.39850711799994,50.222988129,272,GWITHIAN SOUTH,,21,Hayle,50.2229881286621,-5.3985071182251,,https://rnli.org/find-my-nearest/lifeguarded-beaches/gwithian-south-beach
+-2.86517999999995,56.464258,273,BROUGHTY FERRY,,4,Glenrothes,56.464258,-2.86518,,https://rnli.org/find-my-nearest/lifeguarded-beaches/broughty-ferry-beach
+-4.69321849999994,51.7166360000001,275,COPPET HALL,,26,Swansea,51.716636,-4.6932185,,https://rnli.org/find-my-nearest/lifeguarded-beaches/coppet-hall-beach
+-1.05960899999997,50.782162,278,EASTNEY,,47,Chichester,50.782162,-1.059609,,https://rnli.org/find-my-nearest/lifeguarded-beaches/eastney-beach
+-1.73441799999995,50.72884,284,AVON,,16,Poole,50.72884,-1.734418,,https://rnli.org/find-my-nearest/lifeguarded-beaches/avon-beach
+-1.04551199999997,50.7853250000001,286,SOUTHSEA EAST,,47,Chichester,50.785325,-1.045512,,https://rnli.org/find-my-nearest/lifeguarded-beaches/southsea-east-beach
+1.33247500000004,51.3828970000001,288,WEST BAY (EAST),,12,Ramsgate,51.382897,1.332475,,https://rnli.org/find-my-nearest/lifeguarded-beaches/west-bay-(east)-beach
+0.034262,53.7316190000001,289,WITHERNSEA,,7,Scarborough,53.731619,0.034262,,https://rnli.org/find-my-nearest/lifeguarded-beaches/withernsea-beach
