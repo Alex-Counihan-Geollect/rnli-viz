@@ -1,29 +1,31 @@
-#%% imports
+# %% imports
 
 import pandas as pd
 from datetime import datetime
 import numpy as np
 
 
-#%% load datasets
+# %% load datasets
 
 fleet_df = pd.read_csv("raw_data/RNLI_Lifeboat_Fleet.csv")
 stations_df = pd.read_csv("raw_data/RNLI_Lifeboat_Station_Locations.csv")
 units_df = pd.read_csv("raw_data/RNLI_Lifeguard_Units.csv")
 returns_df = pd.read_csv("raw_data/RNLI_Returns_of_Service.csv")
 
-#%% filter returns data
+# %% filter returns data
 
-returns_df["DateOfLaunch"] = pd.to_datetime(returns_df["DateOfLaunch"])
-filtered_returns = returns_df[returns_df["DateOfLaunch"].dt.year >= 2020]
-filtered_returns = filtered_returns.dropna(subset=["X", "Y"], axis=0, how="any")
+returns_df["DateOfLaunch"] = pd.to_datetime(returns_df["Date_of_Launch"])
+filtered_returns = returns_df[returns_df["DateOfLaunch"].dt.year == 2023]
+filtered_returns = filtered_returns.dropna(
+    subset=["x", "y"], axis=0, how="any"
+)
 filtered_returns["LifeboatStationNameProper"] = (
     filtered_returns["LifeboatStationNameProper"].astype("string").str.lower()
 )
 filtered_returns = filtered_returns[
     [
-        "X",
-        "Y",
+        "x",
+        "y",
         "AIC",
         "LifeboatStationNameProper",
         "CasualtyCategory",
@@ -35,9 +37,9 @@ filtered_returns = filtered_returns[
 ]
 
 
-#%% filter station locations
+# %% filter station locations
 
-stations_df = stations_df[["X", "Y", "Station"]]
+stations_df = stations_df[["x", "y", "Station"]]
 stations_df["Station"] = stations_df["Station"].astype("string").str.lower()
 merged_df = filtered_returns.merge(
     stations_df,
@@ -48,16 +50,18 @@ merged_df = filtered_returns.merge(
 )
 merged_df = merged_df.drop(columns=["LifeboatStationNameProper"])
 
-#%% validate co-ords
-
-merged_df = merged_df[merged_df["X_dest"].between(-179.0, 179.0)]
-merged_df = merged_df[merged_df["X_station"].between(-179.0, 179.0)]
-merged_df = merged_df[merged_df["Y_dest"].between(-89.0, 89.0)]
-merged_df = merged_df[merged_df["Y_station"].between(-89.0, 89.0)]
+# %% validate co-ords
+merged_df = merged_df[merged_df["x_dest"].between(-179.0, 179.0)]
+merged_df = merged_df[merged_df["x_station"].between(-179.0, 179.0)]
+merged_df = merged_df[merged_df["y_dest"].between(-89.0, 89.0)]
+merged_df = merged_df[merged_df["y_station"].between(-89.0, 89.0)]
 
 
 def haversine(
-    lon1: np.array, lat1: np.array, lon2: np.array, lat2: np.array,
+    lon1: np.array,
+    lat1: np.array,
+    lon2: np.array,
+    lat2: np.array,
 ) -> np.array:
     """Calculate the haversine distance between two coordinates.
     :param lon1: Longitude point 1.
@@ -75,7 +79,10 @@ def haversine(
     # haversine formula
     d_lon = lon2 - lon1
     d_lat = lat2 - lat1
-    a = np.sin(d_lat / 2) ** 2 + np.cos(lat1) * np.cos(lat2) * np.sin(d_lon / 2) ** 2
+    a = (
+        np.sin(d_lat / 2) ** 2
+        + np.cos(lat1) * np.cos(lat2) * np.sin(d_lon / 2) ** 2
+    )
     c = 2 * np.arcsin(np.sqrt(a))
     r = 6371000
     distance = c * r
@@ -83,11 +90,14 @@ def haversine(
 
 
 merged_df["distance"] = haversine(
-    merged_df.X_dest, merged_df.Y_dest, merged_df.X_station, merged_df.Y_station
+    merged_df.x_dest,
+    merged_df.y_dest,
+    merged_df.x_station,
+    merged_df.y_station,
 )
 merged_df.dropna(subset=["distance"], axis=0, how="any", inplace=True)
 
-#%% IQR removal of outliers
+# %% IQR removal of outliers
 
 
 def iqr_outliers(data: pd.Series) -> float:
@@ -101,10 +111,10 @@ def iqr_outliers(data: pd.Series) -> float:
 lower, upper = iqr_outliers(merged_df["distance"])
 merged_df = merged_df[merged_df["distance"].between(lower, upper)]
 
-#%% floor dates
+# %% floor dates
 
 merged_df["DateOfLaunch"] = merged_df["DateOfLaunch"].dt.floor("H")
 
-#%% save df
+# %% save df
 
-merged_df.to_parquet("./cleaned_data/2020_dataset.parquet")
+merged_df.to_parquet("./cleaned_data/2023_dataset.parquet")

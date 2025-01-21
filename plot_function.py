@@ -43,7 +43,7 @@ def plot_map(action_df=None, time: datetime = None):
     plt.text(-1, 58, f"{day}-{month}-{year}", fontsize=22, c="white")
 
     # plot stations
-    ax.scatter(x=station_df["X"], y=station_df["Y"], s=10, c="g")
+    ax.scatter(x=station_df["x"], y=station_df["y"], s=10, c="g")
 
     # plot active stations
     if action_df.shape[0] > 0:
@@ -52,7 +52,10 @@ def plot_map(action_df=None, time: datetime = None):
             mask_df = action_df[action_df["time_diff_days"] == value]
             size = 80 - 12 * value
             ax.scatter(
-                x=mask_df["X_station"], y=mask_df["Y_station"], s=size, c="red",
+                x=mask_df["x_station"],
+                y=mask_df["y_station"],
+                s=size,
+                c="red",
             )
     plt.xlim(-11, 3)
     plt.ylim(48, 62)

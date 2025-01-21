@@ -12,11 +12,13 @@ image_path = "./images/"
 
 
 def make_gif(frame_folder):
-    frames = [Image.open(image) for image in glob.glob(f"{frame_folder}/*.JPG")]
+    frames = [
+        Image.open(image) for image in glob.glob(f"{frame_folder}/*.JPG")
+    ]
     frame_one = frames[0]
     frame_one.save(
-        "rnli.gif",
-        format="GIF",
+        "rnli.mp4",
+        format="mp4",
         append_images=frames,
         save_all=True,
         duration=27.4,
